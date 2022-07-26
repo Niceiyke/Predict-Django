@@ -4,7 +4,6 @@ from pathlib import Path
 import os
 import dj_database_url
 import django_on_heroku
-from decopule import config
 from dotenv import load_dotenv, find_dotenv
 
 
