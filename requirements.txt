@@ -6,9 +6,8 @@ python-dotenv
 python-decouple
 dj-database-url
 whitenoise
-numpy 
+numpy
 pandas
-scipy 
+scipy
 selenium==4.3.0
 gunicorn
-
