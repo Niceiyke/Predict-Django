@@ -9,4 +9,6 @@ scipy
 selenium==4.3.0
 webdriver-manager==3.8.2
 pandas
+gunicorn
+django-heroku
 
