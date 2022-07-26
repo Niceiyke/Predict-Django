@@ -1,12 +1,14 @@
-
-celery==5.2.7
-channels==3.0.5
-channels-redis==3.4.1
 Django==4.0.6
+celery==5.2.7
+webdriver-manager==3.8.2
+django-on-heroku
+python-dotenv
+python-decouple
+dj-database-url
+whitenoise
 numpy 
-redis==4.3.4
+pandas
 scipy 
 selenium==4.3.0
-webdriver-manager==3.8.2
-pandas
+gunicorn
 

@@ -7,7 +7,6 @@ from selenium.webdriver.common.by import By
 import pandas as pd
 import time
 from datetime import datetime
-from asgiref.sync import async_to_sync
 from celery import shared_task
 from .models import Prediction
 from scipy.stats import poisson
